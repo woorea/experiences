@@ -9,7 +9,6 @@ public class HelloWorld {
 		System.out.println("******************");
 		System.out.println("* Hola Caracola! *");
 		System.out.println("******************");
-		
 	}
 
 }
